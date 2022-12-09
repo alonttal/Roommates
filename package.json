@@ -12,7 +12,7 @@
     "colors": "^1.2.5",
     "cors": "^2.8.4",
     "deasync": "^0.1.13",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "geolib": "^2.0.24",
     "http-status": "^1.1.0",
